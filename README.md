@@ -25,7 +25,7 @@ Submit button will be responsible to wrap the text and send it to the server (in
 
 After that once the text submitted to the server he server would be able to analyze the text and label the text with the correct labels
 
-the results after being processed will be returned to the user’s page
+the results after being  processed will be returned to the user’s page
 
 Authors
 its group work - @MehafAllazzam - @Manarr12 - @LeenOb - @DanaDhafer

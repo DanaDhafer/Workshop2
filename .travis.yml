@@ -1,0 +1,11 @@
+Language: node_js
+
+node_js:
+
+- stable
+
+
+
+install:
+
+- npm ci
