@@ -1,11 +1,13 @@
+
+
 Language: node_js
 
 node_js:
+ - 10
 
-- stable
+script:
+  - npm test
 
+cache:
+  npm: false
 
-
-install:
-
-- npm ci
